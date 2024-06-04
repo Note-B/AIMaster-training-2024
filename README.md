@@ -1,5 +1,7 @@
 
-![Alt text](./Dataset/github_qr_code.png)
+![Alt text](./Dataset/github_qr_code.png) 
+
+https://github.com/Tuchsanai/AIMaster-seagate-training-2024
 
 
 # Mastering AI Technologies: Prompt Engineering, Hugging Face and Integrating AI Technologies

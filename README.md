@@ -1,6 +1,8 @@
 
 ![Alt text](./Dataset/github_qr_code.png) 
 
+email : tuchsanai@it.kmitl.ac.th
+
 https://github.com/Tuchsanai/AIMaster-seagate-training-2024
 
 
